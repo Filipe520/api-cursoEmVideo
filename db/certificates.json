@@ -1,4 +1,5 @@
 [
+  { "code": "EXEMPLE", "name": "Nome do aluno", "course": "Nome do curso", "date": "2025-06-05" },
   { "code": "A1B2C3D4E5", "name": "Maria Silva", "course": "Segurança da Informação: Módulo 04 [20 HORAS]", "date": "2024-01-15" },
   { "code": "F6G7H8I9J0", "name": "João Santos", "course": "Segurança da Informação: Módulo 04 [20 HORAS]", "date": "2024-01-20" },
   { "code": "K1L2M3N4O5", "name": "Ana Oliveira", "course": "Segurança da Informação: Módulo 04 [20 HORAS]", "date": "2024-02-01" },
